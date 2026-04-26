@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.sudapass_sp_demo2",
+    "sha256_cert_fingerprints": [
+      "FA:6F:B5:27:2E:F7:F7:EE:D1:B8:77:47:B1:C4:61:2B:25:04:FA:32:45:78:5A:62:D1:B2:53:21:F5:D5:F8:CC"
+    ]
+  }
+}]
